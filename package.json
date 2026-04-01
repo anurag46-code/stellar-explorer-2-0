@@ -1,0 +1,78 @@
+{
+  "name": "stellar-galaxy-explorer-2.0",
+  "version": "2.0.0",
+  "description": "Advanced 3D galaxy visualization with real astronomical data - Multi-Agent Team Collaboration",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build complete - static site ready for deployment'",
+    "dev": "echo 'Development server not needed for static site'",
+    "start": "echo 'Open index.html in browser'",
+    "deploy": "vercel --prod",
+    "test": "echo 'Run security and performance tests'",
+    "audit": "echo 'Run security audit'",
+    "optimize": "echo 'Optimize assets and performance'",
+    "validate": "echo 'Validate project structure and dependencies'"
+  },
+  "keywords": [
+    "3d",
+    "galaxy",
+    "space",
+    "threejs",
+    "astronomy",
+    "visualization",
+    "multi-agent",
+    "collaboration",
+    "nasa",
+    "simbad",
+    "interactive"
+  ],
+  "author": "Multi-Agent Team (Laude, Codex, Clarity, Sentinel, Nexus)",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {},
+  "browserslist": [
+    "defaults",
+    "not ie < 11",
+    "maintained node versions"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anurag46-code/stellar-galaxy-explorer-2.0"
+  },
+  "homepage": "https://stellar-galaxy-explorer-2-0.vercel.app",
+  "bugs": {
+    "url": "https://github.com/anurag46-code/stellar-galaxy-explorer-2.0/issues"
+  },
+  "contributors": [
+    "Laude (Main Coordinator)",
+    "Codex (Technical Implementation)",
+    "Clarity (UI/UX Design)",
+    "Sentinel (Security & Performance)",
+    "Nexus (Integration Specialist)"
+  ],
+  "multiAgentTeam": {
+    "laude": {
+      "role": "Main Coordinator",
+      "responsibilities": ["Project coordination", "Multi-agent integration", "Deployment management"]
+    },
+    "codex": {
+      "role": "Development Expert", 
+      "responsibilities": ["Three.js implementation", "Technical architecture", "Performance optimization"]
+    },
+    "clarity": {
+      "role": "UI/UX Designer",
+      "responsibilities": ["Visual design system", "Responsive layout", "User experience"]
+    },
+    "sentinel": {
+      "role": "Security Auditor",
+      "responsibilities": ["Security validation", "Error handling", "Performance monitoring"]
+    },
+    "nexus": {
+      "role": "Integration Specialist",
+      "responsibilities": ["API integration", "Data management", "External services"]
+    }
+  }
+}
