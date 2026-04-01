@@ -6,11 +6,23 @@
       "use": "@vercel/static"
     },
     {
-      "src": "*.css",
+      "src": "design/*.css",
       "use": "@vercel/static"
     },
     {
-      "src": "*.js",
+      "src": "core/*.js",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "integration/*.js",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "security/*.js",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "coordination/*.js",
       "use": "@vercel/static"
     }
   ],
